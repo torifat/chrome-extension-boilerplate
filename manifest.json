@@ -1,0 +1,6 @@
+{
+    "name": "Your Extension",
+    "version": "0.1",
+    "description": "My awesome extension",
+    "options_page":"options.html"
+}
